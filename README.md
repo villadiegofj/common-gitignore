@@ -1,6 +1,7 @@
 # common-gitignore
 Common entries in a gitignore file
 
+````
 ## -------------------------------
 ## Entries
 ## -------------------------------
@@ -34,3 +35,4 @@ nb-configuration.xml
 
 # Node
 node_modules/
+````
